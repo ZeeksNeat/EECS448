@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 master story time
-=======
- story time
->>>>>>> solo
