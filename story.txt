@@ -1,3 +1,7 @@
-?story time? master
+<<<<<<< HEAD
+?story time?
+=======
+?story time? 
+>>>>>>> solo
 
 solo story time
