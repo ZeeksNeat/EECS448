@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-?story time?
-=======
-?story time? 
->>>>>>> solo
+?story time? solo
 
 solo story time
